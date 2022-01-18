@@ -26,7 +26,10 @@ Por meio de sua utilização, podemos saber quais foram as alterações realizad
   
   
   
-  * git add .: Esse comando fará com que todos os arquivos fiquem prontos para o Github, por isso ele é indispensável. É importante observar que usei o git add . porque quero adicionar todos os arquivos do projeto, mas caso você queira adicionar apenas algum arquivo específico, basta usar git add <nome_do_arquivo>.
+  * git add . : Esse comando fará com que todos os arquivos fiquem prontos para o Github, por isso ele é indispensável. É importante observar que usei o git add . porque quero adicionar todos os arquivos do projeto, mas caso você queira adicionar apenas algum arquivo específico, basta usar git add <nome_do_arquivo>.
+  Ao digitar novamente o git status, vamos ver o seguinte:
+  
+  ![Status verde](https://blog.cod3r.com.br/wp-content/uploads/2021/01/status_verde.png)
   
   
   
