@@ -19,7 +19,14 @@ Por meio de sua utilização, podemos saber quais foram as alterações realizad
   
   * git init: Isso criará alguns arquivos próprios do git, entre eles o mais importante é o gitignore, pois nele está tudo o que se deve ignorar ao realizar o commit. É aqui onde vamos colocar diretórios e arquivos grandes, que podemos gerar facilmente, ou arquivos que não queremos que fiquem visíveis no repositório.
   
-  * git status: Com ele podemos verificar quais arquivos ainda não adicionamos no repositório local da máquina. Como mostrado na imagem abaixo, são os arquivos marcados em vermelho.
+  * git status: Com ele podemos verificar quais arquivos ainda não adicionamos no repositório local da máquina. Como mostrado na imagem abaixo, são os arquivos marcados em vermelho:
+  
+  ![Status vermelho](https://blog.cod3r.com.br/wp-content/uploads/2021/01/status_vermelho.png)
+  
+  
+  
   
   * git add .: Esse comando fará com que todos os arquivos fiquem prontos para o Github, por isso ele é indispensável. É importante observar que usei o git add . porque quero adicionar todos os arquivos do projeto, mas caso você queira adicionar apenas algum arquivo específico, basta usar git add <nome_do_arquivo>.
+  
+  
   
