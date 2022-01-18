@@ -61,6 +61,8 @@ Por meio de sua utilização, podemos saber quais foram as alterações realizad
   **Pronto, agora você já sabe fazer commit no GitHub. Espero que você consiga realizar os seus commits e aproveitar mais desse mundo de versionamento de códigos**
 
   
+  ## RESUMO DA LIGAÇÃO DO GIT COM O GITHUB <H2>
+  
   
   
   
