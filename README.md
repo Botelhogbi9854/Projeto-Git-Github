@@ -64,6 +64,18 @@ Por meio de sua utilização, podemos saber quais foram as alterações realizad
   ## RESUMO DA LIGAÇÃO DO GIT COM O GITHUB <H2>
   
   
+  Uma coisa importante para entender o que os comandos abaixo estão fazendo, é dar uma olhada nas “áreas” que o Git gerencia pra gente, e o fluxo que nossas alterações percorrem até chegar lá no nosso repositório no GitHub. A imagem abaixo ilustra isso.
+
+Quando utilizamos “git add”, enviamos o arquivo para o “staging area” (área de preparo), que significa que ele está sendo preparado para entrar na próxima revisão do repositório. São as coisas que vão entrar no próximo commit.
+
+Ao executar “git commit”, vamos pegar tudo que foi enviado com git add ao staging área e “tirar uma foto” do estado atual do projeto e registrar isso no nosso repositório local.
+
+E, por fim, o comando “git push”, vai enviar essas alterações commitadas para o repositório remoto.
+  
+  
+  ![ilustração](https://ilegra.com/wp-content/uploads/2020/12/IMAGEM-4.png)
+  
+  
   
   
   
