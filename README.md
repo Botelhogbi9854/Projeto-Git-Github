@@ -76,7 +76,25 @@ E, por fim, o comando “git push”, vai enviar essas alterações commitadas p
   ![ilustração](https://ilegra.com/wp-content/uploads/2020/12/IMAGEM-4.png)
   
   
+  Estando dentro da pasta do seu projeto, vamos digitar os seguintes comandos:
   
-  
+* o comando git init está criando um novo repositório do git
+git init
+
+* como já tínhamos arquivos dentro da nossa pasta, fizemos um pouco diferente do indicado nos comandos do GitHub. O comando git add . adiciona todo o conteúdo do atual diretório à área de index do Git (para saber mais)
+git add .
+
+* o comando seguinte, vai confirmar que queremos adicionar essas mudanças, e sempre vamos colocar dentro de aspas duplas uma mensagem que explique o que esse commit está fazendo, o que ele está adicionando. É importante que a mensagem de commit realmente seja explicativa em relação às alterações que foram feitas.
+git commit -m “Enviando primeiro projeto ao GitHub”
+
+* Depois disso, vamos nos conectar ao nosso servidor remoto, ao nosso repositório do GitHub
+git remote add origin https://github.com/isagiongo-tutorial/basic-git.git
+
+* E, por fim, enviar essas alterações lá para o nosso repositório do GitHub
+git push -u origin master
+
+![ilustração](https://ilegra.com/wp-content/uploads/2020/12/IMAGEM-5.gif)
+
+**Pronto! Nosso projeto já está na nossa página do GitHub!**
   
   
