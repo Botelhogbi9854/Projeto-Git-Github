@@ -1,2 +1,2 @@
-# Projeto-Git-Github
-Organizando meu conhecimento em Git/ GitHub
+# Projeto-Git-Github 📚
+Organizando meu conhecimento em Git/ GitHub 
