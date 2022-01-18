@@ -48,7 +48,10 @@ Por meio de sua utilização, podemos saber quais foram as alterações realizad
   
   No final vamos enviar o projeto com o comando:
   
-  * git push -u origin main
+  * git push -u origin main.
+  
+  
+  **Pronto, agora você já sabe fazer commit no GitHub. Espero que você consiga realizar os seus commits e aproveitar mais desse mundo de versionamento de códigos**
 
   
   
