@@ -7,6 +7,7 @@ Organizando meu conhecimento em Git/ GitHub
 
 Por meio de sua utilização, podemos saber quais foram as alterações realizadas, quem fez cada uma das alterações e baixar essas mudanças em nossa máquina. Se necessário, revertê-las para uma versão anterior.
   
+*Link para download do Git: <https://git-scm.com/downloads>
   
   
 ### O que é GitHub? <h3> 🖥
