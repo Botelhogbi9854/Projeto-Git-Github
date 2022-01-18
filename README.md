@@ -32,4 +32,27 @@ Por meio de sua utilização, podemos saber quais foram as alterações realizad
   ![Status verde](https://blog.cod3r.com.br/wp-content/uploads/2021/01/status_verde.png)
   
   
+  #### Primeiro Commit <h4>
+  
+  **Basta utilizar o seguinte comando:**
+  
+  * git commit -m "meu primeiro commit": A flag -m indica que vamos adicionar uma mensagem para aquele commit. Dessa forma conseguiremos identificar o que foi feito naquele commit. Por exemplo, você acabou de adicionar um Header na aplicação, então na mensagem você sinaliza que criou o header para a aplicação.
+  
+  
+  * git branch -M main: Aqui vamos criar a branch main, que é a principal branch do repositório. Mas como falei anteriormente, você não precisa se preocupar com esse detalhe.
+  
+  Agora vamos linkar os 2 repositórios, ou seja, o repositório do Github com o da nossa máquina. Use o comando:
+  
+  * git remote add origin <link_para_o_seu_repositorio>
+  
+  
+  No final vamos enviar o projeto com o comando:
+  
+  * git push -u origin main
+
+  
+  
+  
+  
+  
   
